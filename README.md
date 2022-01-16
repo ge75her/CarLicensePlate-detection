@@ -5,7 +5,7 @@ Our Dataset is loaded by Kaggle:
 
 https://www.kaggle.com/andrewmvd/car-plate-detection
 
-We use faster R-CNN object detection algorithm to complete this task.
+We use faster R-CNN object detection algorithm to complete this task. This project should run by GPU.
 
 ## environment
 torch 1.9.0
